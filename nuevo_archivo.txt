@@ -1,0 +1,3 @@
+ GNU nano 7.2                        nuevo_archivo.txt *
+echo "Nuevo archivo." > nuevo_archivo.txt
+
