@@ -1,4 +1,3 @@
 <?php
-echo "Hola, mundo!: Actualización";
-
+echo "Hola, mundo .Modificación 2";
 ?>
